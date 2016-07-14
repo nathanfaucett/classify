@@ -1,5 +1,5 @@
-var camelize = require("camelize"),
-    singularize = require("singularize");
+var camelize = require("@nathanfaucett/camelize"),
+    singularize = require("@nathanfaucett/singularize");
 
 
 module.exports = classify;
